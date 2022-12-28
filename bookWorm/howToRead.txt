@@ -1,0 +1,1 @@
+To decipher the bookOfWorm.txt, type "gawk '/worm/ {print $1}' bookOfWorm.txt"

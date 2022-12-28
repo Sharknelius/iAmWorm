@@ -1,0 +1,2 @@
+worms like to dig holes. Dig one by typing ". ./digHole.sh".
+Doing so will increase your health.

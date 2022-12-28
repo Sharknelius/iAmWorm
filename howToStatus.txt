@@ -1,0 +1,1 @@
+Check your current status by typing "status"

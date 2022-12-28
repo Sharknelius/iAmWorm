@@ -1,0 +1,1 @@
+Socialize with other worms by typing ". ./meetFriend.sh".

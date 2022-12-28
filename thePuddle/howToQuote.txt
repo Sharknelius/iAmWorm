@@ -1,0 +1,2 @@
+Create an inspirational quote by typing ". ./setQuote".
+Then remember the quote by typing the function "quote".

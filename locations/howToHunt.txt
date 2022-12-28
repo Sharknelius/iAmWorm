@@ -1,0 +1,4 @@
+Make yourself less tired by eating food!
+Locate food by typing "grep food [grass, dirt, etc].txt -o | wc -l". 
+Eat the food by typing "((tired -= [amount found]))"
+(The text in brackets [] is meant to be replaced and typed without brackets)

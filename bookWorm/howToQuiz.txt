@@ -1,0 +1,2 @@
+Quiz yourself on the types of worms found in bookOfWorm.txt
+by typing ". ./readBook.sh" to gain knowledge and become a big brain worm. 
