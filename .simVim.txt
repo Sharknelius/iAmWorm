@@ -1,0 +1,9 @@
+#!/bin/bash
+enemyHealth=12000
+
+if [ $enemyHealth -lt 1 ]
+then
+echo "HOW COULD YOU...BE THIS STRONG?"
+else
+(( health -= damage ))
+fi
