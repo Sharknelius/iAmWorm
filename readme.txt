@@ -3,7 +3,7 @@ Welcome to LARK
 
 Name of game: I Am Worm
 
-Developed by: Jasmine Rodriguez
+Developed by: J Rodriguez
 
 Narrative: You are reincarnated into a worm. However, you still remember how to use a computer keyboard. 
 As a newly born worm, you seek out the secrets of the worm. In order to learn it, 
