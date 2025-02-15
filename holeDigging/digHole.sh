@@ -12,7 +12,7 @@ function checkCap ()
 if [ $tired -ge $cap ]
 then
 ((tired = cap))
-break
+((again = "n"))
 echo -e "${RED}You are too tired to dig anymore. Try eating some food from the locations directory.${NC}"
 else
 read -p "Dig again? y/n " again
